@@ -2,7 +2,7 @@
 
 Portafolio profesional.
 
-**Live:** *Se actualizará después del deploy*
+**Live:** [raquelmontesbravo.com](https://raquelmontesbravo.com/)
 
 ## Tech Stack
 
